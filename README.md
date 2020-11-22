@@ -2,10 +2,6 @@
 
 This  implementation of Twitter/Cornell-Movie Chatbot.
 
-
-[TensorLayer](https://github.com/zsdonghao/tensorlayer) >= 2.0
-
-
 ### Training
 
 ```
