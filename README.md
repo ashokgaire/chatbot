@@ -1,6 +1,6 @@
-# Chatbot Using Seq2seq model Deep NLP
+# Chatbot Using Seq2seq model using Deep NLP
 
-This  implementation of Twitter/Cornell-Movie Chatbot.
+This  is implementation of Twitter/Cornell-Movie Chatbot.
 
 ### Training
 
